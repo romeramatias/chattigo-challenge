@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/chattigo-challenge.iml" filepath="$PROJECT_DIR$/.idea/chattigo-challenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chattigo-ej-01/chattigo-ej-01.iml" filepath="$PROJECT_DIR$/chattigo-ej-01/chattigo-ej-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chattigo-ej-02/chattigo-ej-02.iml" filepath="$PROJECT_DIR$/chattigo-ej-02/chattigo-ej-02.iml" />
+    </modules>
+  </component>
+</project>
